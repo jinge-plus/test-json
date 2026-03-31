@@ -11,7 +11,10 @@
       "Bash(git -C /Users/loganli/devops/web全栈开发/test-json status)",
       "Bash(git -C /Users/loganli/devops/web全栈开发/test-json diff)",
       "Bash(git -C /Users/loganli/devops/web全栈开发/test-json add nodes)",
-      "Bash(git -C:*)"
+      "Bash(git -C:*)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(git config:*)",
+      "Bash(git rm:*)"
     ]
   }
 }
